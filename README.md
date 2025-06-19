@@ -90,7 +90,7 @@ The dashboard is partitioned to prominently display the following details for bo
 
 ## Access the Dashboard
 
-You can access the live Tableau Public dashboard for this project by clicking here: [Tableau Public Dashboard Link](https://www.google.com/search?q=https://public.tableau.com/views/SalesComparisonBasedonRegion/SalesComparisonDashboard%3F:language%3Den-US%26:sid%3D%26:display_count%3Dn%26:origin%3Dviz_share_link)
+You can access the live Tableau Public dashboard for this project by clicking here: [Tableau Public Dashboard Link](https://public.tableau.com/app/profile/sulfikar.shajimon/viz/FinalProject_17202047013560/Dashboard1)
 
 -----
 
